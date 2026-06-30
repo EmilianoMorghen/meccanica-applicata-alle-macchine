@@ -4,7 +4,7 @@
 
 2. Supponendo note le minime distanze $a$ e $b$ delle rette d'azione molle dal centro O del disco e il momento d'inerzia del corpo oscillante $I_o$, determinare la frequenza (Hz) propria di oscillazione in assenza di attrito.
 
-   ![Diagramma: disco con due molle di rigidezza $k$, una collegata orizzontalmente a sinistra e una collegata verticalmente in basso, vincolato al suolo tramite cerniera nel centro O. Il disco è dotato di una ruota dentata.](exam_05.jpeg)
+   ![Diagramma: disco con due molle di rigidezza $k$, una collegata orizzontalmente a sinistra e una collegata verticalmente in basso, vincolato al suolo tramite cerniera nel centro O. Il disco è dotato di una ruota dentata.](compito_E.jpeg)
 
 3. Con riferimento dalla simulazione dinamica dei sistemi Multi Body (MBS Dynamics) illustrare il metodo impiegato per eliminare il vettore delle reazioni vincolari.
 

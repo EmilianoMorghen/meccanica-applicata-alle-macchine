@@ -4,7 +4,7 @@
 
    Illustra il teorema di Aronhold-Kennedy e mostra come tale teorema permetta di trovare i diversi centri di istantanea rotazione dei moti relativi tra i membri. In particolare, determinare i centri di istantanea rotazione $P_{51}$ e $P_{36}$.
 
-   > **Diagramma:** Meccanismo a 6 membri con telaio (1), membro 2 con cerniera in A, membro 3 collegato a terra, membro 5 inclinato, membro 6 verticale con cursore in D, e un cursore in C (membro 4). I punti notevoli sono A, B, C, D, E. Riferimento: [`exam_01.jpeg`](exam_01.jpeg)
+   > **Diagramma:** Meccanismo a 6 membri con telaio (1), membro 2 con cerniera in A, membro 3 collegato a terra, membro 5 inclinato, membro 6 verticale con cursore in D, e un cursore in C (membro 4). I punti notevoli sono A, B, C, D, E. Riferimento: [`compito_D.jpeg`](compito_D.jpeg)
 
 2. Illustrare l'approccio allo studio delle vibrazioni dei sistemi a parametri concentrati con $n$ gradi di libertà: soluzione sincrona nel campo complesso.
 
